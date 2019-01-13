@@ -4,6 +4,7 @@ class Solution:
     #二维列表有序
     #分而治之，从右上角或者左下角开始判断
     #不能从左上角或者右下角，无法排除整行or列
+    #参考自 https://github.com/apachecn/awesome-algorithm/
     
     def Find(self, target, array):
         # write code here
