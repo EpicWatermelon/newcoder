@@ -6,6 +6,8 @@
 
 参考repo:
 
-https://github.com/apachecn/awesome-algorithm
+[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 
-https://github.com/gatieme/CodingInterviews
+[CodingInterviews](https://github.com/gatieme/CodingInterviews)
+
+[剑指offer-python](https://kaiyuanyokii2n.com/offer-python.html)
