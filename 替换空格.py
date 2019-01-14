@@ -13,6 +13,7 @@ class Solution:
                 k.append('%20')
             else:
                 k.append(i)
+        #list->str
         return "".join(k)
 
 #解2：在原str上修改，建立两个指针，遍历该str
